@@ -1,8 +1,8 @@
 ![title_page](images/title_page.png)
 
-## Selected Works:
+## Selected Works
 
-### Foundations of Data Science:
+### Foundations of Data Science
 * [Introduction to Python](https://bit.ly/Land_python)
 * [Math Essential for Data Science](https://bit.ly/Land_python)
 * [Statistics and Probabiltiy for Data Science](https://bit.ly/Land_stats)
@@ -10,6 +10,7 @@
 
 ### Applications of Data Science
 * [How do You Solve a Problem Like Murphy?](https://bit.ly/Land_Murphy)
+* [Hybrid Unsupervised-Supervised Machine Learning for Time Series Analysis](https://github.com/ljbelenky/decline)
 
 ### Example Templates for Students
 * Time Series
