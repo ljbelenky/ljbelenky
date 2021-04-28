@@ -13,7 +13,7 @@
 * [Hybrid Unsupervised-Supervised Machine Learning for Time Series Analysis](https://github.com/ljbelenky/decline)
 
 ### Example Templates for Students
-* [Time Series - MA Models](https://gist.github.com/ljbelenky/f1ad1fe5520efa842ff40fbe5ab9f5fc)
+* [Time Series - MA Models](https://gist.github.com/ljbelenky/644bb02b334a10c00c3db4b12a277ac7)
 * Time Series - ARIMA Models
 * Sklearn Pipelines
 
